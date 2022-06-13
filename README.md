@@ -1,2 +1,5 @@
-# dio-desafio-recriando-pagina-inicial-instragram
-Desafio de Projeto Recriando a página inicial do Instagram
+# Desafio de Projeto sobre Desenvolvimento Web
+Repositório criado para o Desafio de Projeto Recriando página inicial do Instagram
+
+## Links Úteis
+[Download IDE Visual Studio Code](https://code.visualstudio.com/download)
